@@ -1,0 +1,11 @@
+experiment_id,user_id,group,converted,revenue
+exp_001,user_1,control,0,0.0
+exp_001,user_2,treatment,1,25.5
+exp_001,user_3,control,1,10.0
+exp_001,user_4,treatment,0,0.0
+exp_001,user_5,control,0,0.0
+exp_001,user_6,treatment,1,30.0
+exp_001,user_7,control,0,0.0
+exp_001,user_8,treatment,1,20.0
+exp_001,user_9,control,1,15.0
+exp_001,user_10,treatment,0,0.0

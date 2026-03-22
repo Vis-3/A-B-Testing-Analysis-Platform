@@ -1,0 +1,22 @@
+{
+    "experiments": [
+        {
+            "id": "exp_001",
+            "name": "Checkout Flow Redesign",
+            "metric": "conversion_rate",
+            "type": "proportion",
+            "variants": ["control", "treatment"],
+            "start_date": "2023-01-01",
+            "status": "completed"
+        },
+        {
+            "id": "exp_002",
+            "name": "Pricing Page Optimization",
+            "metric": "revenue_per_user",
+            "type": "continuous",
+            "variants": ["control", "treatment_1", "treatment_2"],
+            "start_date": "2023-02-15",
+            "status": "completed"
+        }
+    ]
+}
